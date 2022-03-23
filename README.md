@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Development/MERN Stack
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any MERN stack project
-- 📫 How to reach me ...
+- 📫 How to reach me - email thomas.aurelius.widmer@gmail.com
 
 <!---
 ThomasAurelius/ThomasAurelius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
