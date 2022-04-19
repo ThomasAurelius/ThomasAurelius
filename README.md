@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThomasAurelius
 - 👀 I’m interested in Full Stack Development/MERN Stack
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning MongoDB/Express/React/NodeJS
 - 💞️ I’m looking to collaborate on any MERN stack project
 - 📫 How to reach me - email thomas.aurelius.widmer@gmail.com
 
