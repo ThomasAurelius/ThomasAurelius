@@ -21,6 +21,7 @@ Results driven Software Developer focusing on Javascript and React, with a keen 
 <br>
 <br>
 ![React](https://img.shields.io/badge/-ReactJS-blue?style=flat-square&logo=react)
+![Redux] (https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-NodeJS-green?style=flat-square&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-purple?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
