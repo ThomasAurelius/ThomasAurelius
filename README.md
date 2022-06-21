@@ -26,7 +26,7 @@ Results driven Software Developer focusing on Javascript and React, with a keen 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
 
 ### I also worked with:
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=FFFFFF)
 
 
