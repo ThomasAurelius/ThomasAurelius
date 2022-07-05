@@ -8,7 +8,7 @@ Results driven Software Developer focusing on Javascript and React, with a keen 
 
 * 🌍  I'm based in Austin, TX
 * ✉️  You can contact me at [thomas.aurelius.widmer@gmail.com](mailto:thomas.aurelius.widmer@gmail.com)
-* 🧠  I'm focused on React, Redux, Express, NodeJS, MondgoDB
+* 🧠  I'm focused on MondgoDB, Express, React, NodeJS - MERN
 * 🤝  I'm open to collaborating on MERN Stack projects
 * ⚡  I'm interested in Machine Learning and AI as side projects
 
