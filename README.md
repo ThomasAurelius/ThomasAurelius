@@ -32,7 +32,7 @@ Results driven Software Developer focusing on Javascript and React, with a keen 
 ### I also worked with:
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=FFFFFF)
-![StorybookUI](https://img.shields/badge/-Storybook_UI-blue?style=flat-square&logo=storybookui)
+![StorybookUI](https://img.shields.io/badge/-Storybook_UI-blue?style=flat-square&logo=storybookui)
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
