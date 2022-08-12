@@ -26,13 +26,13 @@ Results driven Software Developer focusing on Javascript and React, with a keen 
 ![Express](https://img.shields.io/badge/-Express-purple?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-pink?style=flat-square&logo=graphql)
-![Apollo](https://img.shields.io/badge/-Apollo-blue?style=flat-square%logo=apollo)
-![RestAPI](https://img.shields.io/badge/-RestAPI-grey?style=flat-square%logo=restapi)
+![Apollo](https://img.shields.io/badge/-Apollo-blue?style=flat-square&logo=apollo)
+![RestAPI](https://img.shields.io/badge/-RestAPI-grey?style=flat-square&logo=restapi)
 
 ### I also worked with:
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=FFFFFF)
-
+![StorybookUI](https://img.shields/badge/-Storybook_UI-blue?style=flat-square&logo=storybookui)
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
