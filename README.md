@@ -25,6 +25,7 @@ Results driven Software Developer focusing on Javascript and React, with a keen 
 ![Nodejs](https://img.shields.io/badge/-NodeJS-green?style=flat-square&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-purple?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
+![GraphQL](https://img.shields.io/badge/-GraphQl-pink?style=flat-square&logo=graphql)
 
 ### I also worked with:
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
