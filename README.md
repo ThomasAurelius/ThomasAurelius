@@ -1,4 +1,4 @@
-Hi 👋 My name is Thomas Aurelius
+Hi 👋 My name is Thomas Gooch
 ================================
 
 Full Stack Software Developer
