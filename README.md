@@ -8,7 +8,7 @@ Results driven Software Developer focusing on Java, Javascript and React, with a
 
 * 🌍  I'm based in Austin, TX
 * ✉️  Freelance requests can contact me at [contact@thomasgooch.pro](mailto:contact@thomasgooch.pro)    
-* 🧠  I'm focused on MongoDB, Express, React, NodeJS - MERN
+* 🧠  I'm focused on MongoDB, Express, React, NodeJS, Next, Apollo & GraphQL 
 * 🤝  Here is my portfolio: [thomasgooch.dev](https://thomasgooch.dev)
 * ⚡  I'm interested in Machine Learning and AI as side projects
 
