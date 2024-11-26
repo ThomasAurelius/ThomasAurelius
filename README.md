@@ -18,10 +18,10 @@ Results-driven Software Developer focusing on Java, Javascript, Ruby on Rails, a
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-ReactJS-blue?style=flat-square&logo=react)
 ![RubyOnRails](https://img.shields.io/badge/-Ruby_On_Rails-red?style=flat-square&logo=rubyonrails)
 <br>
 <br>
-![React](https://img.shields.io/badge/-ReactJS-blue?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-NodeJS-green?style=flat-square&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-purple?style=flat-square&logo=express)
