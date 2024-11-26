@@ -28,6 +28,9 @@ Results driven Software Developer focusing on Java, Javascript and React, with a
 ![GraphQL](https://img.shields.io/badge/-GraphQL-pink?style=flat-square&logo=graphql)
 ![Apollo](https://img.shields.io/badge/-Apollo-blue?style=flat-square&logo=apollo)
 ![RestAPI](https://img.shields.io/badge/-RestAPI-grey?style=flat-square&logo=restapi)
+![Java](https://img.shields.io/badge/-Java-brown?style=flat-square&logo=java)
+![RubyOnRails](https://img.shields.io/badge/-RubyOnRailst-red?style=flat-square&logo=rubyonrails)
+
 
 ### I also worked with:
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
