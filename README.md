@@ -18,7 +18,7 @@ Results-driven Software Developer focusing on Java, Javascript, Ruby on Rails, a
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![RubyOnRails](https://img.shields.io/badge/-RubyOnRails-red?style=flat-square&logo=rubyonrails)
+![RubyOnRails](https://img.shields.io/badge/-Ruby_On_Rails-red?style=flat-square&logo=rubyonrails)
 <br>
 <br>
 ![React](https://img.shields.io/badge/-ReactJS-blue?style=flat-square&logo=react)
@@ -37,6 +37,7 @@ Results-driven Software Developer focusing on Java, Javascript, Ruby on Rails, a
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=FFFFFF)
 ![StorybookUI](https://img.shields.io/badge/-Storybook_UI-blue?style=flat-square&logo=storybookui)
+![Remix](https://img.shields.io/badge/-Remix-purple?style=flat-square&logo=remix)
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
