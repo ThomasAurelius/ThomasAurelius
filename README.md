@@ -4,7 +4,7 @@ Hi 👋 My name is Thomas Gooch
 Full Stack Software Developer
 ------------------
 
-Results-driven Software Developer focusing on Java, Javascript, Ruby on Rails, and React, with a keen interest in Machine Learning and AI. I have a strong leadership background and enjoy mentoring other developers and supporting the community. Versatile and adaptive, I enjoy working on mulitple projects, both large and small, and am able to switch gears with ease. I have over 5 years of process improvement project management experience and a deep belief in the power of leaving everything better than I found it.
+Results-driven Software Developer focusing on Java, Javascript, Ruby on Rails, and React, with a keen interest in Machine Learning and AI. I have a strong leadership background and enjoy mentoring other developers and supporting the community. Versatile and adaptive, I enjoy working on multiple projects, both large and small, and am able to switch gears with ease. I have over 5 years of process improvement project management experience and a deep belief in the power of leaving everything better than I found it.
 
 * 🌍  I'm based in Austin, TX
 * ✉️  Freelance requests can contact me at [contact@thomasgooch.pro](mailto:contact@thomasgooch.pro)    
@@ -18,7 +18,7 @@ Results-driven Software Developer focusing on Java, Javascript, Ruby on Rails, a
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
-![RubyOnRails](https://img.shields.io/badge/-RubyOnRailst-red?style=flat-square&logo=rubyonrails)
+![RubyOnRails](https://img.shields.io/badge/-RubyOnRails-red?style=flat-square&logo=rubyonrails)
 <br>
 <br>
 ![React](https://img.shields.io/badge/-ReactJS-blue?style=flat-square&logo=react)
