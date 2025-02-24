@@ -8,7 +8,7 @@ Results-driven Software Developer focusing on Java, Javascript, Ruby on Rails, a
 
 * 🌍  I'm based in Austin, TX
 * ✉️  Freelance requests can contact me at [thomas.e.gooch@gmail.com](mailto:thomas.e.gooch@gmail.com)    
-* 🧠  I'm focused on JavaScript, Ruby on Rails, MongoDB, Express, React, NodeJS, and Next.js
+* 🧠  I'm focused on JavaScript, MongoDB, Express, React, NodeJS, and Next.js
 * 🤝  Here is my portfolio: [thomasgooch.dev](https://thomasgooch.dev)
 * ⚡  I'm interested in Machine Learning and AI as side projects
 
@@ -19,7 +19,7 @@ Results-driven Software Developer focusing on Java, Javascript, Ruby on Rails, a
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-ReactJS-blue?style=flat-square&logo=react)
-![RubyOnRails](https://img.shields.io/badge/-Ruby_On_Rails-red?style=flat-square&logo=rubyonrails)
+
 <br>
 <br>
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
