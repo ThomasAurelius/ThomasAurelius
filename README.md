@@ -11,7 +11,7 @@ Results-oriented Software Developer with expertise in Java, JavaScript, and Reac
 * ✉️  Freelance requests can contact me at [thomas.e.gooch@gmail.com](mailto:thomas.e.gooch@gmail.com)    
 * 🧠  I'm focused on JavaScript, MongoDB, Express, React, NodeJS, and Next.js
 * 🤝  Here is my portfolio: [thomasgooch.dev](https://thomasgooch.dev)
-* ⚡  I'm interested in Machine Learning and AI as side projects
+* ⚡  I'm interested in Machine Learning and AI as side projects- hit me up!
 
 ## Languages and Tools:
 
