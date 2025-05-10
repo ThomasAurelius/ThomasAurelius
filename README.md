@@ -4,7 +4,8 @@ Hi 👋 My name is Thomas Gooch
 Full Stack Software Developer
 ------------------
 
-Results-driven Software Developer focusing on Java, Javascript, Ruby on Rails, and React, with a keen interest in Machine Learning and AI. I have a strong leadership background and enjoy mentoring other developers and supporting the community. Versatile and adaptive, I enjoy working on multiple projects, both large and small, and am able to switch gears with ease. I have over 5 years of process improvement project management experience and a deep belief in the power of leaving everything better than I found it.
+Results-oriented Software Developer with expertise in Java, JavaScript, and React, and a growing focus on Machine Learning and AI. I bring a strong leadership background and a passion for mentoring fellow developers while actively supporting the tech community. Known for adaptability and versatility, I thrive in dynamic environments, managing both large-scale and smaller initiatives with ease. With over five years of experience leading process improvement projects, I’m committed to continuous refinement and firmly believe in leaving every system better than I found it.
+
 
 * 🌍  I'm based in Austin, TX
 * ✉️  Freelance requests can contact me at [thomas.e.gooch@gmail.com](mailto:thomas.e.gooch@gmail.com)    
