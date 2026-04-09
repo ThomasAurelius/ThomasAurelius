@@ -4,7 +4,15 @@ Hi 👋 My name is Thomas Gooch
 Full Stack Software Developer
 ------------------
 
-Results-oriented Software Developer with expertise in Java, JavaScript, and React, and a growing focus on Machine Learning and AI. I bring a strong leadership background and a passion for mentoring fellow developers while actively supporting the tech community. Known for adaptability and versatility, I thrive in dynamic environments, managing both large-scale and smaller initiatives with ease. With over five years of experience leading process improvement projects, I’m committed to continuous refinement and firmly believe in leaving every system better than I found it.
+Full-stack developer working mostly in JavaScript, React, and Next.js, with a background in Java and modernizing large, messy systems into something actually maintainable.
+
+I like building fast, accessible web apps, but just as much I like figuring out how things break, where systems get clunky, and how to make them better. A lot of my work has been taking legacy codebases and dragging them into something more modern without breaking everything in the process.
+
+I also lean pretty hard into the community side - I organize the Next.js ATX meetup, mentor developers, and generally enjoy breaking down complex ideas into something people can actually use.
+
+I pick up new tools quickly, move comfortably between front-end and back-end, and tend to leave both the codebase and the team in a better spot than I found them.
+
+With over five years of experience leading process improvement projects, I’m committed to continuous refinement and firmly believe in leaving every system better than I found it.
 
 
 * 🌍  I'm based in Austin, TX
